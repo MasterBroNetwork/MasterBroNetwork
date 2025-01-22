@@ -1,5 +1,5 @@
 ## 👋 About Me:
-🔭 I’m currently working on *something secret*.<br>🌱 I’m currently learning Java, Rust, Networking and Game Development.
+🔭 I’m currently working on *something secret*.<br>🌱 I’m currently learning Java, C++, Networking and Game Development.
 
 ## 💻 Technology that I have used in the past / currently:
 #### Programming Languages (oldest - most recent):
