@@ -1,5 +1,5 @@
 ## 👋 About Me:
-🔭 I’m currently working on *something secret*.<br>🌱 I’m currently learning Java, C++, Networking and Game Development.
+🌱 I’m currently learning Java, C++ and Game Development.
 
 ## 💻 Technology that I have used in the past / currently:
 #### Programming Languages (oldest - most recent):
@@ -29,9 +29,6 @@
 ![](https://github-readme-stats.vercel.app/api?username=MasterBroNetwork&theme=transparent&hide_border=true&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=MasterBroNetwork&theme=transparent&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=MasterBroNetwork&theme=transparent&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
-
-### 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=MasterBroNetwork&theme=default&no-frame=true&no-bg=false&margin-w=4)
 
 #### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
