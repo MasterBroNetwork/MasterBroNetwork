@@ -1,7 +1,7 @@
-## 👋 About Me:
-🌱 I’m currently learning Java, C++ and Game Development.
+## About Me
+I’m currently learning Java, C++ and Game Development.
 
-## 💻 Technology that I have used in the past / currently:
+## Technologies that I have used in the past / currently
 #### Programming Languages (oldest - most recent):
 ![Lua](https://img.shields.io/badge/lua-darkblue.svg?style=for-the-badge&logo=lua&logoColor=white) 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) 
@@ -25,12 +25,12 @@
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) 
 ![GithubPages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white) 
 
-### 📊 GitHub Stats:
+### GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=MasterBroNetwork&theme=transparent&hide_border=true&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=MasterBroNetwork&theme=transparent&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=MasterBroNetwork&theme=transparent&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
 
-#### ✍️ Random Dev Quote
+#### Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
